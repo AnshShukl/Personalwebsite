@@ -1,0 +1,93 @@
+.topContainer{
+  background-color: #D6E6F2;
+  padding-top: 100px;
+  position: relative;
+
+}
+.header{
+  height: 50px;
+  background-color: #B9D7EA;
+  text-align: left;
+  position: relative;
+}
+.avatar{
+  padding: 5px;
+  height: 40px;
+}
+.git{
+  padding: 5px;
+  position: absolute;
+  left: 1100px;
+}
+.git:hover{
+ content: url('github.png');
+}
+.insta:hover{
+ content: url('instagram.png');
+}
+.mail:hover{
+ content: url('mail.png');
+}
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Mukta', sans-serif;
+}
+h1{
+  margin: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.265rem;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  color: #11999E;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+.dp{
+  margin: 0;
+}
+.cld1{
+  position: absolute;
+  left: 350px;
+  top: 250px;
+}
+.cld2{
+position: absolute;
+  top: 100px;
+
+}
+.mtn{
+  margin-top: 70px;
+}
+.skill-row1{
+  text-align: left;
+  padding: 0 60px;
+}
+.skill-row2{
+  text-align: right;
+  padding: 0 60px;
+}
+.middleContainer{
+background-color: #D6E6F2;
+}
+.bottomContainer{
+
+}
+hr{
+  color: #769FCD;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+  margin: 0 auto;
+}
